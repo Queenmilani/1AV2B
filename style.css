@@ -10,7 +10,7 @@ p{
 
 }
 body{
-    background-image: url(fem.webp);
+    background-image: url(fem.webp); height: 55%;
     background-image: url(images\ \(3\).jpeg); left: 185%;
     background-repeat: no-repeat;
     background-size: cover;
