@@ -39,7 +39,7 @@ body{
         top: 0px;
     }
     .modas {
-        
+
         top: 0px;
-        right: 530px;
+        float: right;
     }
