@@ -14,7 +14,7 @@ body{
     background-image: url(images\ \(3\).jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 1200px;
+    max-width: 1024px;
 }
 .button{
     display: inline-block;
