@@ -12,10 +12,9 @@ p{
 body{
     background-image: url(fem.webp); 
     background-image: url(images\ \(3\).jpeg);
-    max-width: 100px;
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 100px;
+    max-width: 1440px;
  
 }
 .button{
